@@ -26,10 +26,10 @@ keywords:
   - Europe
   - food systems
   - spatially explicit
-repository-code: "https://github.com/<USERNAME>/Code_for_FABIO_AMMO"
+repository-code: "https://github.com/Xinpeng0930/Code_for_FABIO_AMMO"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.<ZENODO_ID>"
+    value: "10.5281/zenodo.24146167"
     description: "Archived code release (Zenodo)"
 preferred-citation:
   type: article

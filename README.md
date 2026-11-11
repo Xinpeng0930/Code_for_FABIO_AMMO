@@ -12,7 +12,7 @@ The methods and results are described in:
 > *Nature Food*. https://doi.org/<PAPER_DOI>
 
 If you use this code or the data, please cite the paper above and the archived code
-release: https://doi.org/<ZENODO_DOI> (Zenodo).
+release: https://doi.org/10.5281/zenodo.24146167 (Zenodo).
 
 ## Contact
 

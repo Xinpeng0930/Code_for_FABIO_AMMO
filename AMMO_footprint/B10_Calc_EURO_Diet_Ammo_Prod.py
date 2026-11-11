@@ -6,7 +6,7 @@
 #   Jin, X., Behrens, P., Erisman, J. W., Navarre, N., & Mogollón, J. M. (2026).
 #   Adopting a planetary health diet is critical for reducing ammonia emissions in Europe.
 #   Nature Food. https://doi.org/<PAPER_DOI>
-#   Code archive: https://doi.org/<ZENODO_DOI> (Zenodo)
+#   Code archive: https://doi.org/10.5281/zenodo.24146167 (Zenodo)
 
 # B10_Calc_EURO_Diet_Ammo_Prod — FABIO production-side emissions for the diets
 '''

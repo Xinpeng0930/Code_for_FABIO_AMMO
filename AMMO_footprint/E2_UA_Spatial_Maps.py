@@ -6,7 +6,7 @@
 #   Jin, X., Behrens, P., Erisman, J. W., Navarre, N., & Mogollón, J. M. (2026).
 #   Adopting a planetary health diet is critical for reducing ammonia emissions in Europe.
 #   Nature Food. https://doi.org/<PAPER_DOI>
-#   Code archive: https://doi.org/<ZENODO_DOI> (Zenodo)
+#   Code archive: https://doi.org/10.5281/zenodo.24146167 (Zenodo)
 
 # E2 — spatial uncertainty of the PHD emission change (Fig. 4, SI S10)
 # Functions:
