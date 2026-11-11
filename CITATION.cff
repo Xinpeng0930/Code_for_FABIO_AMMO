@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for FABIO-AMMO: planetary health diet and ammonia emissions in Europe"
+abstract: "Python code used to quantify the effects of adopting a planetary health diet on agricultural ammonia emissions in Europe, coupling the FABIO multi-regional input-output model with the AP-AMMO emission model."
+authors:
+  - family-names: Jin
+    given-names: Xinpeng
+    email: x.jin@cml.leidenuniv.nl
+    orcid: "https://orcid.org/0009-0007-1270-3124"
+  - family-names: Behrens
+    given-names: Paul
+    orcid: "https://orcid.org/0000-0002-2935-4799"
+  - family-names: Erisman
+    given-names: Jan Willem
+    orcid: "https://orcid.org/0000-0001-5058-7012"
+  - family-names: Navarre
+    given-names: Nicolas
+  - family-names: Mogollón
+    given-names: José Manuel
+    orcid: "https://orcid.org/0000-0002-7110-5470"
+license: GPL-3.0
+keywords:
+  - ammonia emissions
+  - planetary health diet
+  - nitrogen
+  - Europe
+  - food systems
+  - spatially explicit
+repository-code: "https://github.com/<USERNAME>/Code_for_FABIO_AMMO"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.<ZENODO_ID>"
+    description: "Archived code release (Zenodo)"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Jin
+      given-names: Xinpeng
+    - family-names: Behrens
+      given-names: Paul
+    - family-names: Erisman
+      given-names: Jan Willem
+    - family-names: Navarre
+      given-names: Nicolas
+    - family-names: Mogollón
+      given-names: José Manuel
+  title: "Adopting a planetary health diet is critical for reducing ammonia emissions in Europe"
+  journal: Nature Food
+  year: 2026
+  # doi: "10.1038/..."   # add when published
+  # url: "https://doi.org/10.1038/..."

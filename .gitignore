@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+logs/
+AMMO_footprint/Figures/
+Rplots.pdf
+.Rhistory
+.RData

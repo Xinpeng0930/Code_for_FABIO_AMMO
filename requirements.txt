@@ -1,0 +1,15 @@
+# Core runtime (conda environment AP_AMMO6 is the reference environment)
+numpy
+pandas
+scipy
+rasterio
+pyogrio
+geopandas
+shapely
+openpyxl
+xlsxwriter
+matplotlib
+seaborn
+pillow
+
+# GDAL Python bindings are provided by the conda environment (gdal package).
